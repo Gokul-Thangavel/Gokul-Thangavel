@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Gokul-Thangavel
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Data science related projects
+- 👀 I’m interested in SAP MATERIALS MANAGEMENT
+- 💞️ I’m looking to collaborate on SAP PROJECTS
 - 📫 How to reach me ...https://www.linkedin.com/in/gokul-thangavel-75a883235
 
 <!---
